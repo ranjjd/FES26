@@ -15,7 +15,7 @@ print(secret)
 # Intercanvia la primera i l'última posició fent servir només l'assignació per índex.
 print("\nExercici 2:")
 nombres = [10, 20, 30, 40, 50]
-nombres[0], nombres[-1] = nombres[-1], nombres[0] # Intercanvi en una sola línia.
+nombres[0], nombres[-1] = nombres[-1], nombres[0] 
 print(nombres)
 
 # Exercici 3: L'entrepà de llistes
